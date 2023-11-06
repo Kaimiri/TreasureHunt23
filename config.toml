@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://familytreasurehunt23.netlify.app/'
 languageCode = 'en-us'
 title = 'Treasure Hunt 2023 🎄'
 theme = 'PaperMod'
