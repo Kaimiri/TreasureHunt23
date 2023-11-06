@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Treasure Hunt 2023 🎄'
+theme = 'PaperMod'
